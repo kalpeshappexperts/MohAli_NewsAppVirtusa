@@ -17,10 +17,10 @@ Have add my own key but if required; you'll need to provide API key to fetch the
 This software was developed using an Agile and TDD methodology
 
 # Screenshots
-![Alt text](https://github.com/MoeAbouAli/MohAli_NewsAppVirtusa/blob/master/app/docs/images/HomeScreen.png?raw=true “Breaking News”) 
-![Alt text](https://github.com/MoeAbouAli/MohAli_NewsAppVirtusa/blob/master/app/docs/images/NewsDetails.png?raw=true “Detail News”) 
-![Alt text](https://github.com/MoeAbouAli/MohAli_NewsAppVirtusa/blob/master/app/docs/images/SearchNews.png?raw=true “Search News”) 
-![Alt text](https://github.com/MoeAbouAli/MohAli_NewsAppVirtusa/blob/master/app/docs/images/Favourtite.png?raw=true “Favourtitle News”)
+![alt text](https://github.com/MoeAbouAli/MohAli_NewsAppVirtusa/blob/master/app/docs/images/HomeScreen.png)
+![alt text](https://github.com/MoeAbouAli/MohAli_NewsAppVirtusa/blob/master/app/docs/images/NewsDetails.png)
+![alt text](https://github.com/MoeAbouAli/MohAli_NewsAppVirtusa/blob/master/app/docs/images/SearchNews.png) 
+![alt text](https://github.com/MoeAbouAli/MohAli_NewsAppVirtusa/blob/master/app/docs/images/Favourtite.png)
 
 
 # Libraries Used
